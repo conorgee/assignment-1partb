@@ -27,8 +27,12 @@ public class test {
 		modules.add(english);
 		students.add(john);
 		lecturers.add(jim);
-		
-		
+		System.out.println(students);
+//		System.out.println(modules);
+//		System.out.println(courses);
+//		System.out.println(lecturers);
+
+
 	}
 
 }
