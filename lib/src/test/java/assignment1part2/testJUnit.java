@@ -10,7 +10,7 @@ import org.junit.jupiter.api.*;
 import assignment1.*;
 import assignment1.Module;
 
-class test {
+class testJUnit {
 //	Lecturer(String name, int age, String dob, int id, List<Module> modules,
 	//List<CourseProgramme> courses) throws ParseException {
 	
